@@ -22,7 +22,7 @@ Python project to transform a csv file from XTB into a csv file that can be used
 
 ![screenshot](image/screenshot2.png)
 
-3. Check **Stocks/ETF purchase** only
+3. Check **Stocks/ETF purchase** and **Stocks/ETF sale** only
 
 ![screenshot](image/screenshot3.png)
 
