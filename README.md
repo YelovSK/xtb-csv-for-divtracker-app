@@ -16,19 +16,19 @@ Python project to transform a csv file from XTB into a csv file that can be used
 
 1. In [Xstation5](https://xstation5.xtb.com/) click on **History** > **Cash operations**
 
-![screenshot](image/screenshot2.PNG)
+![screenshot](image/screenshot.png)
 
 2. Choose **Date** Range
 
-![screenshot](image/screenshot3.PNG)
+![screenshot](image/screenshot2.png)
 
 3. Check **Stocks/ETF purchase** only
 
-![screenshot](image/screenshot4.PNG)
+![screenshot](image/screenshot3.png)
 
 4. Click **Export button** and choose **Cash Operations** > **CSV** and then click **Export Report**
 
-![screenshot](image/screenshot5.PNG)
+![screenshot](image/screenshot4.png)
 
 ## Requirements
 
