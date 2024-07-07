@@ -11,7 +11,7 @@ input_path = args["input"]
 output_path = args["output"]
 
 if not os.path.exists(input_path):
-    print("File does not exist")
+    raise FileNotFoundError(f"File {input_path} does not exist")
 
 data_from_xtb = pd.read_csv(input_path, usecols=["Symbol", "Comment", "Time"], sep=";")
 data_to_app = data_from_xtb.copy()
